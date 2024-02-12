@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Protest+Riot&display=swap');
+
+
+body {
+    font-family: 'Mulish', sans-serif;
+    background-color: #f8f8f8;
+    color: #0036fa;
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.song-lyrics {
+    max-width: 550px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #b2dff6;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.59);
+}
+ .song-name {
+    text-align: center;
+    margin-bottom: 15px;
+    text-decoration: underline;
+    color: #df1e1e;
+ }
+
+ .song-name:hover {
+    color: #4caf50;
+    font-size: 25px;
+ }
+
+.song-verse-1 {
+    background-color: #d3cbfa47;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.song-verse-1:hover {
+    background-color: #d3cbface;
+}
+
+.song-verse-2 {
+    background-color: #f5ed5147;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.song-verse-2:hover {
+    background-color: #f5ed51c3;
+}
+
+.song-bridge {
+    font-family: 'Protest Riot', sans-serif;
+    background-color: #a9f55147;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    color: #cf83f8;
+}
+
+.song-bridge:hover {
+    background-color: #a9f551a0;
+}
+
+.song-verse-3 {
+    background-color: #f57a5147;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.song-verse-3:hover {
+    background-color: #f57a51ca;
+}
+
+.line3 {
+    font-weight: bold;
+}
+
+.line3-span {
+    font-size: 24px;
+    color: #fa1d00;
+}
+
+
+.line4-span {
+    font-style: italic;
+    color: #bd5656;
+}
+
+.line5 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #ff5500;
+}
+
+.line6 {
+    font-size: 26px;
+    color:#aa0bff;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.line7 {
+    font-weight: bold;
+    text-decoration: solid;
+    text-decoration: underline dotted;
+}
+
+.line8 {
+    font-weight: bold;
+    text-decoration: underline dotted;
+
+}
+
+
+.line11 {
+    font-size: 22px;
+    color: #bd5656;
+}
+
+.line11-span {
+    font-size: 26px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #df1e1e;
+}
+
+
+.line13 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #f62ea3;
+}
+
+.line14 {
+    font-weight: bold;
+    text-decoration: underline wavy;
+}
+
+.line15 {
+    font-weight: bold;
+    text-decoration: underline wavy;
+}
+
+.line16-span {
+    font-size: 24px;
+    text-decoration: overline dashed;
+    color: #c1b61e;
+    font-style: italic;
+}
+
+.line17-span {
+    font-size: 30px;
+    font-weight: bold;
+    color: #df1e1e;
+}
+
+.line18-span {
+    font-size: 28px;
+    color: #f701ff;
+    text-decoration: underline double;
+}
+
+.line18-span:hover {
+    font-size: 34px;
+}
+
+.line19 {
+    text-decoration: overline underline dotted;
+}
+
+.line21-span {
+    font-weight: bold;
+    font-size: 26px;
+    text-decoration: overline underline solid;
+    color: #6006fc;
+}
+
+.line22-span {
+    font-size: 26px;
+    font-style: italic;
+}
+
+.line23,
+.line24,
+.line25 {
+    font-weight: bolder;
+    font-size: 20px;
+    color: #793fff;
+    text-decoration: underline solid;
+}
